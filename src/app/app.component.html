@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta charset="utf-8">
+
+  <title>The Travel Collection</title>
+</head>
+
+<body>
+
+  <div class="shopping-cart">
+    <!-- Title -->
+    <div class="title">
+        <strong> {{productStoreTitle}}</strong>
+    </div>
+
+    <!-- Will show product list items using *ngfor loop
+    which will iterate all list of product and will assign data 
+    from given template 
+    -->
+    <div class="item" *ngFor="let product of products;">
+      <div class="image">
+        <img src={{product.hero.href}} alt="" />
+      </div>
+
+      <!-- Will show all product details -->
+      <div class="description">
+        <div class="key">Name</div>
+        <span style="color: blueviolet; font-size: 16px;">{{product.name}}</span>
+
+        <div class="key">Size:<span>
+            {{product.hero.size | uppercase}}</span></div>
+
+        <div class="key">Price Range: <span>{{product.priceRange.selling.low | currency}} -
+            {{product.priceRange.selling.high | currency}}</span></div>
+
+
+        <div class="key">Total Review: <span>{{product.reviews.reviewCount}}</span></div>
+        <div class="key">Ratting: <span>{{product.reviews.averageRating}}/10</span></div>
+        <div class="inStock" *ngIf="product.inStock">In Stock</div>
+        <div class="outOfStock" *ngIf="!product.inStock" >Out of Stock</div>
+      <!-- Will show action buttons -->
+      <div class="value" *ngIf="product.inStock" >
+          <button style="background-color: #ff9f00;" (click)="addToCart(product.name)">Add to Cart</button>
+          <button style="background-color: #fb641b;" (click)="buyProduct(product.name)">Buy Now</button>
+        </div>
+         
+
+      </div>
+      
+    </div>
+  </div>
+</body>
+
+</html>

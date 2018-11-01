@@ -1,0 +1,889 @@
+{
+    "id": "shop/new/all-new",
+    "name": "All New",
+    "categoryType": "subcat",
+    "groups": [
+        {
+            "id": "west-elm-travel-collection-pale-pink-d5850",
+            "name": "west elm Travel Collection - Pale Pink section",
+            "inStock": true,
+            "links": {
+                "www": "https://www.westelm.com/products/west-elm-travel-collection-pale-pink-d5850/"
+            },
+            "priceRange": {
+                "selling": {
+                    "high": 600,
+                    "low": 50
+                }
+            },
+            "thumbnail": {
+                "size": "xs",
+                "meta": "",
+                "alt": "west elm Travel Collection - Pale Pink",
+                "rel": "thumbnail",
+                "width": 363,
+                "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201844/0011/west-elm-travel-collection-pale-pink-m.jpg",
+                "height": 363
+            },
+            "hero": {
+                "size": "m",
+                "meta": "",
+                "alt": "",
+                "rel": "hero",
+                "width": 363,
+                "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201844/0011/west-elm-travel-collection-pale-pink-m.jpg",
+                "height": 363
+            },
+            "images": [
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-backpacks-5-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-backpacks-4-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-backpacks-3-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-backpacks-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-backpacks-1-m.jpg",
+                    "height": 363
+                }
+            ],
+            "swatches": [],
+            "messages": [],
+            "flags": [
+                {
+                    "bopisSuppress": false,
+                    "rank": 3,
+                    "id": "newcore"
+                }
+            ],
+            "reviews": {
+                "recommendationCount": 0,
+                "likelihood": 0,
+                "reviewCount": 50,
+                "averageRating": 7,
+                "id": "west-elm-travel-collection-pale-pink-d5850",
+                "type": "GROUP_REVIEWS"
+            }
+        },
+        {
+            "id": "west-elm-travel-collection-platinum-d5849",
+            "name": "west elm Travel Collection - Platinum  model",
+            "inStock": false,
+            "links": {
+                "www": "https://www.westelm.com/products/west-elm-travel-collection-platinum-d5849/"
+            },
+            "priceRange": {
+                "selling": {
+                    "high": 100,
+                    "low": 49
+                }
+            },
+            "thumbnail": {
+                "size": "l",
+                "meta": "",
+                "alt": "west elm Travel Collection - Platinum",
+                "rel": "thumbnail",
+                "width": 363,
+                "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201844/0011/west-elm-travel-collection-platinum-m.jpg",
+                "height": 363
+            },
+            "hero": {
+                "size": "m",
+                "meta": "",
+                "alt": "",
+                "rel": "hero",
+                "width": 363,
+                "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201844/0011/west-elm-travel-collection-platinum-m.jpg",
+                "height": 363
+            },
+            "images": [
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-backpacks-5-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-backpacks-4-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-backpacks-3-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-backpacks-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-backpacks-1-m.jpg",
+                    "height": 363
+                }
+            ],
+            "swatches": [],
+            "messages": [],
+            "flags": [
+                {
+                    "bopisSuppress": false,
+                    "rank": 3,
+                    "id": "newcore"
+                }
+            ],
+            "reviews": {
+                "recommendationCount": 0,
+                "likelihood": 0,
+                "reviewCount": 10,
+                "averageRating": 8,
+                "id": "west-elm-travel-collection-platinum-d5849",
+                "type": "GROUP_REVIEWS"
+            }
+        },
+        {
+            "id": "west-elm-travel-collection-black-d5848",
+            "name": "west elm Travel Collection - Black  model plus",
+            "inStock": true,
+            "links": {
+                "www": "https://www.westelm.com/products/west-elm-travel-collection-black-d5848/"
+            },
+            "priceRange": {
+                "selling": {
+                    "high": 1000,
+                    "low": 669
+                }
+            },
+            "thumbnail": {
+                "size": "xl",
+                "meta": "",
+                "alt": "west elm Travel Collection - Black",
+                "rel": "thumbnail",
+                "width": 363,
+                "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201844/0011/west-elm-travel-collection-black-m.jpg",
+                "height": 363
+            },
+            "hero": {
+                "size": "m",
+                "meta": "",
+                "alt": "",
+                "rel": "hero",
+                "width": 363,
+                "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201844/0011/west-elm-travel-collection-black-m.jpg",
+                "height": 363
+            },
+            "images": [
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-backpacks-5-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-backpacks-4-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-backpacks-3-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-backpacks-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-backpacks-1-m.jpg",
+                    "height": 363
+                }
+            ],
+            "swatches": [],
+            "messages": [],
+            "flags": [
+                {
+                    "bopisSuppress": false,
+                    "rank": 3,
+                    "id": "newcore"
+                }
+            ],
+            "reviews": {
+                "recommendationCount": 0,
+                "likelihood": 0,
+                "reviewCount": 10,
+                "averageRating": 4,
+                "id": "west-elm-travel-collection-black-d5848",
+                "type": "GROUP_REVIEWS"
+            }
+        },
+        {
+            "id": "west-elm-backpacks-d5847",
+            "name": "west elm Backpacks black crood model plus dual",
+            "inStock": false,
+            "links": {
+                "www": "https://www.westelm.com/products/west-elm-backpacks-d5847/"
+            },
+            "priceRange": {
+                "selling": {
+                    "high": 301,
+                    "low": 30
+                }
+            },
+            "thumbnail": {
+                "size": "xs",
+                "meta": "",
+                "alt": "west elm Backpacks",
+                "rel": "thumbnail",
+                "width": 363,
+                "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-backpacks-2-m.jpg",
+                "height": 363
+            },
+            "hero": {
+                "size": "m",
+                "meta": "",
+                "alt": "",
+                "rel": "hero",
+                "width": 363,
+                "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-backpacks-2-m.jpg",
+                "height": 363
+            },
+            "images": [
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-backpacks-5-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-backpacks-4-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-backpacks-3-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-backpacks-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-backpacks-1-m.jpg",
+                    "height": 363
+                }
+            ],
+            "swatches": [],
+            "messages": [],
+            "flags": [
+                {
+                    "bopisSuppress": false,
+                    "rank": 3,
+                    "id": "newcore"
+                }
+            ],
+            "reviews": {
+                "recommendationCount": 0,
+                "likelihood": 0,
+                "reviewCount": 15,
+                "averageRating": 9,
+                "id": "west-elm-backpacks-d5847",
+                "type": "GROUP_REVIEWS"
+            }
+        },
+        {
+            "id": "west-elm-duffle-bags-d5846",
+            "name": "west elm Duffle Bags brown top model multi section",
+            "inStock": true,
+            "links": {
+                "www": "https://www.westelm.com/products/west-elm-duffle-bags-d5846/"
+            },
+            "priceRange": {
+                "selling": {
+                    "high": 460,
+                    "low": 220
+                }
+            },
+            "thumbnail": {
+                "size": "m",
+                "meta": "",
+                "alt": "west elm Duffle Bags",
+                "rel": "thumbnail",
+                "width": 363,
+                "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-duffle-bags-1-m.jpg",
+                "height": 363
+            },
+            "hero": {
+                "size": "m",
+                "meta": "",
+                "alt": "",
+                "rel": "hero",
+                "width": 363,
+                "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-duffle-bags-1-m.jpg",
+                "height": 363
+            },
+            "images": [
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-duffle-bags-3-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-duffle-bags-2-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-duffle-bags-m.jpg",
+                    "height": 363
+                }
+            ],
+            "swatches": [],
+            "messages": [],
+            "flags": [
+                {
+                    "bopisSuppress": false,
+                    "rank": 3,
+                    "id": "newcore"
+                }
+            ],
+            "reviews": {
+                "recommendationCount": 0,
+                "likelihood": 0,
+                "reviewCount": 20,
+                "averageRating": 8,
+                "id": "west-elm-duffle-bags-d5846",
+                "type": "GROUP_REVIEWS"
+            }
+        },
+        {
+            "id": "west-elm-hardside-spinner-luggage-pale-pink-d5845",
+            "name": "west elm Hardside Spinner Luggage - Pale Pink",
+            "inStock": true,
+            "links": {
+                "www": "https://www.westelm.com/products/west-elm-hardside-spinner-luggage-pale-pink-d5845/"
+            },
+            "priceRange": {
+                "selling": {
+                    "high": 529,
+                    "low": 159
+                }
+            },
+            "thumbnail": {
+                "size": "m",
+                "meta": "",
+                "alt": "west elm Hardside Spinner Luggage - Pale Pink",
+                "rel": "thumbnail",
+                "width": 363,
+                "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-hardside-spinner-luggage-pale-pink-m.jpg",
+                "height": 363
+            },
+            "hero": {
+                "size": "m",
+                "meta": "",
+                "alt": "",
+                "rel": "hero",
+                "width": 363,
+                "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-hardside-spinner-luggage-pale-pink-m.jpg",
+                "height": 363
+            },
+            "images": [
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-hardside-spinner-luggage-pale-pink-1-m.jpg",
+                    "height": 363
+                }
+            ],
+            "swatches": [],
+            "messages": [],
+            "flags": [
+                {
+                    "bopisSuppress": false,
+                    "rank": 3,
+                    "id": "newcore"
+                }
+            ],
+            "reviews": {
+                "recommendationCount": 0,
+                "likelihood": 0,
+                "reviewCount": 66,
+                "averageRating": 10,
+                "id": "west-elm-hardside-spinner-luggage-pale-pink-d5845",
+                "type": "GROUP_REVIEWS"
+            }
+        },
+        {
+            "id": "west-elm-hardside-spinner-luggage-platinum-d5844",
+            "name": "west elm Hardside Spinner Luggage - Platinum",
+            "inStock": true,
+            "links": {
+                "www": "https://www.westelm.com/products/west-elm-hardside-spinner-luggage-platinum-d5844/"
+            },
+            "priceRange": {
+                "selling": {
+                    "high": 529,
+                    "low": 159
+                }
+            },
+            "thumbnail": {
+                "size": "m",
+                "meta": "",
+                "alt": "west elm Hardside Spinner Luggage - Platinum",
+                "rel": "thumbnail",
+                "width": 363,
+                "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-hardside-spinner-luggage-platinum-4-m.jpg",
+                "height": 363
+            },
+            "hero": {
+                "size": "m",
+                "meta": "",
+                "alt": "",
+                "rel": "hero",
+                "width": 363,
+                "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-hardside-spinner-luggage-platinum-4-m.jpg",
+                "height": 363
+            },
+            "images": [
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-hardside-spinner-luggage-platinum-5-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-hardside-spinner-luggage-platinum-2-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-hardside-spinner-luggage-platinum-1-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-hardside-spinner-luggage-platinum-6-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-hardside-spinner-luggage-platinum-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-hardside-spinner-luggage-platinum-3-m.jpg",
+                    "height": 363
+                }
+            ],
+            "swatches": [],
+            "messages": [],
+            "flags": [
+                {
+                    "bopisSuppress": false,
+                    "rank": 3,
+                    "id": "newcore"
+                }
+            ],
+            "reviews": {
+                "recommendationCount": 0,
+                "likelihood": 0,
+                "reviewCount": 105,
+                "averageRating": 9.5,
+                "id": "west-elm-hardside-spinner-luggage-platinum-d5844",
+                "type": "GROUP_REVIEWS"
+            }
+        },
+        {
+            "id": "west-elm-hardside-spinner-luggage-black-d5843",
+            "name": "west elm Hardside Spinner Luggage - Black",
+            "inStock": true,
+            "links": {
+                "www": "https://www.westelm.com/products/west-elm-hardside-spinner-luggage-black-d5843/"
+            },
+            "priceRange": {
+                "selling": {
+                    "high": 529,
+                    "low": 159
+                }
+            },
+            "thumbnail": {
+                "size": "m",
+                "meta": "",
+                "alt": "",
+                "rel": "thumbnail",
+                "width": 363,
+                "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-hardside-spinner-luggage-black-m.jpg",
+                "height": 363
+            },
+            "hero": {
+                "size": "m",
+                "meta": "",
+                "alt": "",
+                "rel": "hero",
+                "width": 363,
+                "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-hardside-spinner-luggage-black-m.jpg",
+                "height": 363
+            },
+            "images": [
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201842/0015/west-elm-hardside-spinner-luggage-black-1-m.jpg",
+                    "height": 363
+                }
+            ],
+            "swatches": [],
+            "messages": [],
+            "flags": [
+                {
+                    "bopisSuppress": false,
+                    "rank": 3,
+                    "id": "newcore"
+                }
+            ],
+            "reviews": {
+                "recommendationCount": 0,
+                "likelihood": 0,
+                "reviewCount": 100,
+                "averageRating": 8,
+                "id": "west-elm-hardside-spinner-luggage-black-d5843",
+                "type": "GROUP_REVIEWS"
+            }
+        },
+        {
+            "id": "flannel-tossed-lines-duvet-cover-shams-b2539",
+            "name": "Flannel Tossed Lines Duvet Cover + Shams",
+            "inStock": true,
+            "links": {
+                "www": "https://www.westelm.com/products/flannel-tossed-lines-duvet-cover-shams-b2539/"
+            },
+            "priceRange": {
+                "selling": {
+                    "high": 159,
+                    "low": 34
+                }
+            },
+            "thumbnail": {
+                "size": "m",
+                "meta": "",
+                "alt": "Flannel Tossed Lines Duvet Cover + Shams",
+                "rel": "thumbnail",
+                "width": 363,
+                "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201835/0031/flannel-tossed-lines-duvet-cover-shams-m.jpg",
+                "height": 363
+            },
+            "hero": {
+                "size": "m",
+                "meta": "",
+                "alt": "",
+                "rel": "hero",
+                "width": 363,
+                "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201835/0031/flannel-tossed-lines-duvet-cover-shams-m.jpg",
+                "height": 363
+            },
+            "images": [
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201836/0011/flannel-tossed-lines-duvet-cover-shams-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201836/0022/flannel-tossed-lines-duvet-cover-shams-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201838/0002/flannel-tossed-lines-duvet-cover-shams-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201838/0002/flannel-tossed-lines-duvet-cover-shams-1-m.jpg",
+                    "height": 363
+                }
+            ],
+            "swatches": [],
+            "messages": [],
+            "flags": [
+                {
+                    "bopisSuppress": false,
+                    "rank": 3,
+                    "id": "newcore"
+                },
+                {
+                    "bopisSuppress": false,
+                    "rank": 8,
+                    "id": "handmade"
+                }
+            ],
+            "reviews": {
+                "recommendationCount": 0,
+                "likelihood": 0,
+                "reviewCount": 55,
+                "averageRating": 6,
+                "id": "flannel-tossed-lines-duvet-cover-shams-b2539",
+                "type": "GROUP_REVIEWS"
+            }
+        },
+        {
+            "id": "flannel-windowpane-duvet-cover-shams-b2540",
+            "name": "Flannel Windowpane Duvet Cover + Shams",
+            "inStock": true,
+            "links": {
+                "www": "https://www.westelm.com/products/flannel-windowpane-duvet-cover-shams-b2540/"
+            },
+            "priceRange": {
+                "selling": {
+                    "high": 200,
+                    "low": 20
+                }
+            },
+            "thumbnail": {
+                "size": "s",
+                "meta": "",
+                "alt": "Flannel Windowpane Duvet Cover + Shams",
+                "rel": "thumbnail",
+                "width": 363,
+                "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201835/0031/flannel-windowpane-duvet-cover-shams-midnight-white-m.jpg",
+                "height": 363
+            },
+            "hero": {
+                "size": "m",
+                "meta": "",
+                "alt": "",
+                "rel": "hero",
+                "width": 363,
+                "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201835/0031/flannel-windowpane-duvet-cover-shams-midnight-white-m.jpg",
+                "height": 363
+            },
+            "images": [
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201836/0008/flannel-windowpane-duvet-cover-shams-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201838/0007/flannel-windowpane-duvet-cover-shams-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201836/0007/flannel-windowpane-duvet-cover-shams-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201836/0009/flannel-windowpane-duvet-cover-shams-m.jpg",
+                    "height": 363
+                },
+                {
+                    "size": "m",
+                    "meta": "",
+                    "alt": "",
+                    "rel": "althero",
+                    "width": 363,
+                    "href": "https://www.westelm.com/weimgs/rk/images/wcm/products/201836/0007/flannel-windowpane-duvet-cover-shams-medium-gray-red-m.jpg",
+                    "height": 363
+                }
+            ],
+            "swatches": [],
+            "messages": [],
+            "flags": [
+                {
+                    "bopisSuppress": false,
+                    "rank": 3,
+                    "id": "newcore"
+                },
+                {
+                    "bopisSuppress": false,
+                    "rank": 8,
+                    "id": "handmade"
+                }
+            ],
+            "reviews": {
+                "recommendationCount": 0,
+                "likelihood": 0,
+                "reviewCount": 60,
+                "averageRating": 10,
+                "id": "flannel-windowpane-duvet-cover-shams-b2540",
+                "type": "GROUP_REVIEWS"
+            }
+        }
+    ],
+    "totalPages": 53,
+    "categories": []
+}
