@@ -10,7 +10,7 @@ Using the json file provided below, given an input of products, design a page th
 4) Interacts intuitively; if you click on the image, you should see an overlay with a carousal of all thumbnail images
 JSON URL - https://www.westelm.com/services/catalog/v4/category/shop/new/all-new/index.json
 
-Use framework: Angular 6+
+Used framework: Angular 6+
 
 Required things before run:
 1) Nodejs should be Installed.
@@ -39,5 +39,5 @@ online site using this we can test our application almost for all devices
 Extra things:
 1) Maintained coading standard 
 2) Code separtion like UI, DATA and Buisness logic is separated
-3) Use ES6 features
-4) Use CSS3 new features
+3) Used ES6 features
+4) Used CSS3 new features
