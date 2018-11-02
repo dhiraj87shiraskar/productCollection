@@ -1,4 +1,4 @@
-Please read complete file before start
+Please read complete below instructions before start
 
 Problem Statment:
 
