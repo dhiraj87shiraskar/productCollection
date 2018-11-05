@@ -22,7 +22,8 @@ How to run:
 4) Open command promt.
 5) Reach to project path.
 6) Run command "npm install"  (will add all required dependency)
-7) Run command "ng serve" (will run our application)
+7) Run command "ng serve" (will run our application) (if you found 
+any error message like "ng is not an internal command" then you can use "npm start")
 8) After sucessfull.
 9) Open the browser on this URL: "http://localhost:4200/"
 
