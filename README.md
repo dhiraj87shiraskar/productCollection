@@ -33,7 +33,7 @@ What you will exprience:
 change status "In Stock" in green color and for "Out of Stock" in red color. 
 4) Some basic javscript events on "Add to cart" and "Buy Now" buttons will show only message with respective click.
 5) Responsive page for diffrent mobiles, tablets and larg devices
-6) As we dont have all deivices so verified on "http://responsivedesignchecker.com/" web site to test responsive for page. 
+6) As we dont have all deivices so verified, we have tested on "http://responsivedesignchecker.com/" this web site to test responsive for page. 
 this is the online site using this we can test our application almost for all devices.
 
 Extra things:
